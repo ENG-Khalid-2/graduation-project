@@ -4,7 +4,7 @@ This is my graduation project titled **"The Vision of Blind People"**.
 I was the team leader and responsible for managing and developing the core functionalities of the system.
 
 <p align="center">
-  <img src="pic3.png" width="600"/>
+  <img src="pic3.jpg" width="600"/>
 </p>
 
 ---
@@ -15,9 +15,6 @@ This project aims to assist visually impaired individuals by enabling them to de
 
 By combining YOLOv8 object detection with text-to-speech (TTS) technology, the system acts like a "talking assistant" that can describe the surroundings aloud — helping users navigate the environment more safely and independently.
 
-<p align="center">
-  <img src="pic3.png" width="600"/>
-</p>
 
 ---
 
@@ -34,8 +31,8 @@ By combining YOLOv8 object detection with text-to-speech (TTS) technology, the s
 
 <p align="center">
   <img src="pic5.png" width="200"/>
-  <img src="pic7.png" width="200"/>
-  <img src="pic8.png" width="200"/>
+  <img src="pic7.jpeg" width="200"/>
+  <img src="pic8.jpeg" width="200"/>
 </p>
 
 ---
@@ -93,5 +90,5 @@ python code.py --source 0 --names class.names --model yolov8n.onnx
 ---
 Once you run the code, a window will open showing the camera feed, and the system will begin detecting and speaking object names and positions.
 
-<p align="center"> <img src="pic6.png" width="500"/> </p>
+<p align="center"> <img src="pic6.jpg" width="500"/> </p>
 ---
