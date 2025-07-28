@@ -30,7 +30,7 @@ By combining YOLOv8 object detection with text-to-speech (TTS) technology, the s
 | pyttsx3          | Text-to-Speech library used to speak out detected objects                   |
 
 <p align="center">
-  <img src="pic5.png" width="200"/>
+  <img src="pic5.png" width="400"/>
   <img src="pic7.jpeg" width="200"/>
   <img src="pic8.jpeg" width="200"/>
 </p>
@@ -91,4 +91,4 @@ python code.py --source 0 --names class.names --model yolov8n.onnx
 Once you run the code, a window will open showing the camera feed, and the system will begin detecting and speaking object names and positions.
 
 <p align="center"> <img src="pic6.jpg" width="500"/> </p>
----
+
