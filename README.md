@@ -30,7 +30,7 @@ By combining YOLOv8 object detection with text-to-speech (TTS) technology, the s
 | pyttsx3          | Text-to-Speech library used to speak out detected objects                   |
 
 <p align="center">
-  <img src="pic5.png" width="400"/>
+  <img src="pic5.png" width="250"/>
   <img src="pic7.jpeg" width="200"/>
   <img src="pic8.jpeg" width="200"/>
 </p>
