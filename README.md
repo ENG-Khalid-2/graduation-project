@@ -4,7 +4,7 @@ This is my graduation project titled **"The Vision of Blind People"**.
 I was the team leader and responsible for managing and developing the core functionalities of the system.
 
 <p align="center">
-  <img src="pic4.png" width="600"/>
+  <img src="pic3.png" width="600"/>
 </p>
 
 ---
@@ -34,8 +34,8 @@ By combining YOLOv8 object detection with text-to-speech (TTS) technology, the s
 
 <p align="center">
   <img src="pic5.png" width="200"/>
-  <img src="pic1.png" width="200"/>
-  <img src="pic2.png" width="200"/>
+  <img src="pic7.png" width="200"/>
+  <img src="pic8.png" width="200"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ By combining YOLOv8 object detection with text-to-speech (TTS) technology, the s
 Open your terminal and install the following:
 
 ```
-Python 3.7 or higher
+
 pip install opencv-python pyttsx3 numpy
 pip install onnxruntime
 ```
@@ -74,7 +74,7 @@ After that, download or place the required YOLO files (model + labels) in the sa
 These are located in the folder named `yolov8-python`.
 
 <p align="center">
-  <img src="pic6.png" width="500"/>
+  <img src="pic4.png" width="500"/>
 </p>
 
 ---
@@ -89,9 +89,9 @@ python code.py --source 0 --names class.names --model yolov8n.onnx
 
 ⚠️ Make sure all the files (code.py, class.names, and yolov8n.onnx) are in the same folder.
 
-<p align="center"> <img src="pic7.png" width="500"/> </p>
+
 ---
 Once you run the code, a window will open showing the camera feed, and the system will begin detecting and speaking object names and positions.
 
-<p align="center"> <img src="pic8.png" width="500"/> </p>
+<p align="center"> <img src="pic6.png" width="500"/> </p>
 ---
